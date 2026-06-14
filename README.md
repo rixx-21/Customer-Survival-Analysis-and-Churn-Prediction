@@ -73,9 +73,9 @@ Log-rank test is carried out to analyze churning probabilities group wise and to
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ayush100304/Customer-Survival-Analysis-and-Churn-Prediction/main/Images/dependents.png" width="250" height="200"/> 
-<img src="https://raw.githubusercontent.com/Ayush100304/Customer-Survival-Analysis-and-Churn-Prediction/main/Images/phoneservice.png" width="250" height="200"/>
-<img src="https://raw.githubusercontent.com/Ayush100304/Customer-Survival-Analysis-and-Churn-Prediction/main/Images/MultipleLines.png" width="250" height="200"/> 
+<img src="https://raw.githubusercontent.com/rixx-21/Customer-Survival-Analysis-and-Churn-Prediction/main/Images/dependents.png" width="250" height="200"/> 
+<img src="https://raw.githubusercontent.com/rixx-21/Customer-Survival-Analysis-and-Churn-Prediction/main/Images/phoneservice.png" width="250" height="200"/>
+<img src="https://raw.githubusercontent.com/rixx-21/Customer-Survival-Analysis-and-Churn-Prediction/main/Images/MultipleLines.png" width="250" height="200"/> 
 </p>
 
 <p align="center">
